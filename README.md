@@ -1,2 +1,2 @@
 # HOUSE-PRICE-PREDICTION-Mumbai-
-Welcome to the HOUSE PRICE PREDICTION (Mumbai) repository! This project aims to develop a machine learning model that accurately predicts house prices in Mumbai based on various features such as the number of bedrooms (BHK), property type, area, region, and other relevant attributes.
+Welcome to the HOUSE PRICE PREDICTION (Mumbai) repository! This project aims to develop a machine learning model that accurately predicts house prices in Mumbai based on various features such as the number of bedrooms (BHK), property type, area, region, and other relevant attributes. The goal is to provide insights and assist buyers, sellers, and real estate professionals in making informed decisions.
